@@ -1,0 +1,9 @@
+{
+	"name": "fullloadtestadf",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7d3cb9f7-e56a-4f70-a424-19ee469b8ebf",
+		"tenantId": "8faaeb77-58f2-4365-a62c-9ba191566dd1"
+	}
+}
